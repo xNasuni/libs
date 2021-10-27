@@ -1,6 +1,6 @@
 --[[
 
-  -- XNASUNIS LIBS --
+  -- XNASUNIS LIBS/LUA --
 
   -- ANSI COLOR LIB --
   
