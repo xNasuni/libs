@@ -37,5 +37,14 @@ end
 function betteroutput.user(str)
   print(color.reset..color.bold..color.foreBrightBlue..'✦ [USER] - '..str..color.reset)
 end
+function betteroutput.test()
+  betteroutput.info('INFORMATION')
+  betteroutput.warn('WARNING')
+  betteroutput.error('ERROR')
+  betteroutput.success('SUCCESS')
+  betteroutput.user('USER')
+  betteroutput.comment('COMMENT')
+  betteroutput.system('SYSTEM')   
+end
 
 return betteroutput
