@@ -14,6 +14,7 @@
 
 local betteroutput = {}
 local color = require("ansicolors")
+
 function betteroutput.warn(str) 
   print(color.reset..color.foreBrightYellow..'⚠ [WARN] - '..str..color.reset)
 end
