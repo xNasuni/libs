@@ -6,8 +6,6 @@
   
   -- UNDER GNU 3.0 LICENSE FEEL FREE TO USE --
 
-  -- CONTACT FOR HELP: xNasuni#8498 --
-
 --]]
 
 --[[
